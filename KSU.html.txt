@@ -1,0 +1,1236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>KSU Media Group | Media, Consulting, Events & Custom</title>
+
+  <meta
+    name="description"
+    content="KSU Media Group helps businesses, organizations, events and people create content, strategy, experiences and custom products."
+  >
+
+  <meta name="keywords" content="KSU Media Group, photography, videography, media, consulting, events, custom products, Colorado Springs">
+
+  <meta name="author" content="KSU Media Group">
+
+  <!-- Social Preview -->
+  <meta property="og:title" content="KSU Media Group">
+  <meta
+    property="og:description"
+    content="Media. Strategy. Experiences. Built to move people."
+  >
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/images/ksu-social-preview.jpg">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="assets/logos/ksu-favicon.png">
+
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- ================================
+       HEADER / NAVIGATION
+  ================================= -->
+
+  <header class="site-header">
+
+    <div class="container nav-container">
+
+      <a href="index.html" class="brand" aria-label="KSU Media Group Home">
+
+        <div class="brand-mark">
+          KSU
+        </div>
+
+        <div class="brand-text">
+          <span class="brand-name">KSU</span>
+          <span class="brand-subtitle">MEDIA GROUP</span>
+        </div>
+
+      </a>
+
+
+      <button
+        class="mobile-menu-toggle"
+        id="mobileMenuToggle"
+        aria-label="Open navigation"
+        aria-expanded="false"
+      >
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+
+      <nav class="main-navigation" id="mainNavigation">
+
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#departments">Departments</a>
+        <a href="#work">Our Work</a>
+        <a href="#contact">Contact</a>
+
+        <a href="#contact" class="nav-cta">
+          Start a Project
+        </a>
+
+      </nav>
+
+    </div>
+
+  </header>
+
+
+  <main>
+
+    <!-- ================================
+         HERO
+    ================================= -->
+
+    <section class="hero" id="home">
+
+      <div class="hero-overlay"></div>
+
+      <div class="container hero-content">
+
+        <p class="eyebrow">
+          KSU MEDIA GROUP
+        </p>
+
+        <h1>
+          We Don't Just Create.
+          <span>We Build.</span>
+        </h1>
+
+        <p class="hero-description">
+          Media, strategy, experiences and custom solutions for
+          businesses, organizations, events and people who are ready
+          to move forward.
+        </p>
+
+        <div class="hero-buttons">
+
+          <a href="#services" class="button button-primary">
+            Explore What We Do
+          </a>
+
+          <a href="#contact" class="button button-secondary">
+            Start a Project
+          </a>
+
+        </div>
+
+      </div>
+
+      <div class="hero-scroll">
+        <span>Scroll to explore</span>
+        <span class="scroll-line"></span>
+      </div>
+
+    </section>
+
+
+    <!-- ================================
+         BRAND STATEMENT
+    ================================= -->
+
+    <section class="statement-section">
+
+      <div class="container statement-container">
+
+        <p class="eyebrow">
+          MORE THAN A MEDIA COMPANY
+        </p>
+
+        <h2>
+          Your idea deserves more than a camera.
+          <span>It deserves a strategy.</span>
+        </h2>
+
+        <p>
+          KSU Media Group brings creative production, photography,
+          videography, consulting, event support and custom products
+          together under one umbrella.
+        </p>
+
+      </div>
+
+    </section>
+
+
+    <!-- ================================
+         ABOUT
+    ================================= -->
+
+    <section class="about-section section" id="about">
+
+      <div class="container two-column">
+
+        <div class="section-label">
+
+          <span class="section-number">
+            01
+          </span>
+
+          <span>
+            WHO WE ARE
+          </span>
+
+        </div>
+
+
+        <div class="section-content">
+
+          <h2>
+            Built from the belief that
+            <span>people come first.</span>
+          </h2>
+
+          <p>
+            KSU Media Group is a veteran-owned creative and media
+            company built to help people, businesses and organizations
+            turn ideas into something real.
+          </p>
+
+          <p>
+            We combine creative production with practical strategy.
+            That means we're not interested in simply making something
+            look good. We want to understand the goal, identify the
+            opportunity and help build something that actually works.
+          </p>
+
+          <p>
+            From a business promotional campaign to wedding
+            photography, an event, branded products or a community
+            initiative, KSU is built to meet people where they are.
+          </p>
+
+          <a href="#contact" class="text-link">
+            Let's build something →
+          </a>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- ================================
+         SERVICES
+    ================================= -->
+
+    <section class="services-section section" id="services">
+
+      <div class="container">
+
+        <div class="section-heading">
+
+          <div>
+
+            <span class="section-number">
+              02
+            </span>
+
+            <span class="section-label-inline">
+              WHAT WE DO
+            </span>
+
+          </div>
+
+          <h2>
+            Creative services
+            <span>with a purpose.</span>
+          </h2>
+
+          <p>
+            Choose the service you need or bring us the problem you're
+            trying to solve. We'll figure out the best path forward.
+          </p>
+
+        </div>
+
+
+        <div class="services-grid">
+
+
+          <!-- Photography -->
+
+          <article class="service-card">
+
+            <div class="service-number">
+              01
+            </div>
+
+            <div class="service-icon">
+              📷
+            </div>
+
+            <h3>
+              Photography
+            </h3>
+
+            <p>
+              Professional photography for businesses, events,
+              weddings, families, products and special moments.
+            </p>
+
+            <a href="#contact">
+              Explore Photography →
+            </a>
+
+          </article>
+
+
+          <!-- Videography -->
+
+          <article class="service-card">
+
+            <div class="service-number">
+              02
+            </div>
+
+            <div class="service-icon">
+              🎥
+            </div>
+
+            <h3>
+              Videography
+            </h3>
+
+            <p>
+              Promotional videos, event coverage, social content,
+              storytelling and visual campaigns designed to connect.
+            </p>
+
+            <a href="#contact">
+              Explore Videography →
+            </a>
+
+          </article>
+
+
+          <!-- Consulting -->
+
+          <article class="service-card">
+
+            <div class="service-number">
+              03
+            </div>
+
+            <div class="service-icon">
+              💡
+            </div>
+
+            <h3>
+              Consulting
+            </h3>
+
+            <p>
+              Practical business, marketing and creative consulting
+              designed to identify problems and build better solutions.
+            </p>
+
+            <a href="#contact">
+              Explore Consulting →
+            </a>
+
+          </article>
+
+
+          <!-- Events -->
+
+          <article class="service-card">
+
+            <div class="service-number">
+              04
+            </div>
+
+            <div class="service-icon">
+              ✨
+            </div>
+
+            <h3>
+              Events & Experiences
+            </h3>
+
+            <p>
+              Media coverage, photography, promotional support and
+              creative services for weddings, celebrations and events.
+            </p>
+
+            <a href="#contact">
+              Plan Your Event →
+            </a>
+
+          </article>
+
+
+          <!-- Custom -->
+
+          <article class="service-card">
+
+            <div class="service-number">
+              05
+            </div>
+
+            <div class="service-icon">
+              👕
+            </div>
+
+            <h3>
+              Custom Products
+            </h3>
+
+            <p>
+              Branded apparel, custom products and event merchandise
+              created for businesses, organizations and individuals.
+            </p>
+
+            <a href="#contact">
+              Explore Custom →
+            </a>
+
+          </article>
+
+
+          <!-- Creative Strategy -->
+
+          <article class="service-card">
+
+            <div class="service-number">
+              06
+            </div>
+
+            <div class="service-icon">
+              🚀
+            </div>
+
+            <h3>
+              Creative Strategy
+            </h3>
+
+            <p>
+              Need help figuring out what to do next? We help turn
+              ideas into practical campaigns, projects and plans.
+            </p>
+
+            <a href="#contact">
+              Start a Conversation →
+            </a>
+
+          </article>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- ================================
+         DEPARTMENTS
+    ================================= -->
+
+    <section class="departments-section section" id="departments">
+
+      <div class="container">
+
+        <div class="section-heading">
+
+          <span class="section-number">
+            03
+          </span>
+
+          <span class="section-label-inline">
+            THE KSU FAMILY
+          </span>
+
+          <h2>
+            Different missions.
+            <span>One vision.</span>
+          </h2>
+
+          <p>
+            KSU Media Group is the umbrella. Each department has its
+            own purpose, audience and personality.
+          </p>
+
+        </div>
+
+
+        <div class="departments-grid">
+
+
+          <!-- KSU Media -->
+
+          <article class="department-card department-main">
+
+            <div class="department-card-content">
+
+              <span class="department-tag">
+                THE CORE
+              </span>
+
+              <h3>
+                KSU Media Group
+              </h3>
+
+              <p>
+                The creative engine behind the entire KSU family.
+                Media production, consulting, photography,
+                videography and business solutions.
+              </p>
+
+              <a href="#contact" class="button button-light">
+                Work With KSU
+              </a>
+
+            </div>
+
+          </article>
+
+
+          <!-- Off Duty -->
+
+          <article class="department-card">
+
+            <div class="department-card-content">
+
+              <span class="department-tag">
+                LIFESTYLE
+              </span>
+
+              <h3>
+                KSU Off Duty
+              </h3>
+
+              <p>
+                Clocked out. Still outside. Lifestyle content,
+                entertainment, conversations, experiences and
+                merchandise.
+              </p>
+
+              <a href="pages/off-duty.html" class="department-link">
+                Visit KSU Off Duty →
+              </a>
+
+            </div>
+
+          </article>
+
+
+          <!-- Events -->
+
+          <article class="department-card">
+
+            <div class="department-card-content">
+
+              <span class="department-tag">
+                EXPERIENCES
+              </span>
+
+              <h3>
+                KSU Events
+              </h3>
+
+              <p>
+                Photography, videography and creative support for
+                weddings, celebrations, business events and special
+                occasions.
+              </p>
+
+              <a href="pages/events.html" class="department-link">
+                Explore Events →
+              </a>
+
+            </div>
+
+          </article>
+
+
+          <!-- Custom -->
+
+          <article class="department-card">
+
+            <div class="department-card-content">
+
+              <span class="department-tag">
+                CUSTOM
+              </span>
+
+              <h3>
+                KSU Custom
+              </h3>
+
+              <p>
+                Custom apparel, branded products, event merchandise
+                and creative product solutions.
+              </p>
+
+              <a href="pages/custom.html" class="department-link">
+                Explore Custom →
+              </a>
+
+            </div>
+
+          </article>
+
+
+          <!-- Brightside -->
+
+          <article class="department-card">
+
+            <div class="department-card-content">
+
+              <span class="department-tag">
+                COMMUNITY
+              </span>
+
+              <h3>
+                Brightside
+              </h3>
+
+              <p>
+                The community-focused side of KSU dedicated to
+                giving back, supporting people and creating positive
+                experiences.
+              </p>
+
+              <a href="pages/brightside.html" class="department-link">
+                Discover Brightside →
+              </a>
+
+            </div>
+
+          </article>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- ================================
+         PROCESS
+    ================================= -->
+
+    <section class="process-section section">
+
+      <div class="container">
+
+        <div class="section-heading">
+
+          <span class="section-number">
+            04
+          </span>
+
+          <span class="section-label-inline">
+            HOW WE WORK
+          </span>
+
+          <h2>
+            Simple process.
+            <span>Real results.</span>
+          </h2>
+
+        </div>
+
+
+        <div class="process-grid">
+
+
+          <div class="process-step">
+
+            <span>
+              01
+            </span>
+
+            <h3>
+              Listen
+            </h3>
+
+            <p>
+              We start by understanding what you're trying to
+              accomplish.
+            </p>
+
+          </div>
+
+
+          <div class="process-step">
+
+            <span>
+              02
+            </span>
+
+            <h3>
+              Diagnose
+            </h3>
+
+            <p>
+              We identify what is working, what isn't and where the
+              opportunity exists.
+            </p>
+
+          </div>
+
+
+          <div class="process-step">
+
+            <span>
+              03
+            </span>
+
+            <h3>
+              Build
+            </h3>
+
+            <p>
+              We create the content, strategy or experience needed
+              to move the project forward.
+            </p>
+
+          </div>
+
+
+          <div class="process-step">
+
+            <span>
+              04
+            </span>
+
+            <h3>
+              Deliver
+            </h3>
+
+            <p>
+              You receive a professional product built around your
+              actual goals.
+            </p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- ================================
+         FEATURED WORK
+    ================================= -->
+
+    <section class="work-section section" id="work">
+
+      <div class="container">
+
+        <div class="section-heading">
+
+          <span class="section-number">
+            05
+          </span>
+
+          <span class="section-label-inline">
+            SELECTED WORK
+          </span>
+
+          <h2>
+            Let's make something
+            <span>worth showing.</span>
+          </h2>
+
+          <p>
+            A few examples of the work we'll showcase here as the
+            KSU portfolio grows.
+          </p>
+
+        </div>
+
+
+        <div class="portfolio-grid">
+
+
+          <article class="portfolio-item">
+
+            <div class="portfolio-image">
+              <img
+                src="assets/images/portfolio-01.jpg"
+                alt="KSU Media Group project"
+                loading="lazy"
+              >
+            </div>
+
+            <div class="portfolio-info">
+
+              <span>
+                PHOTOGRAPHY
+              </span>
+
+              <h3>
+                Featured Project
+              </h3>
+
+            </div>
+
+          </article>
+
+
+          <article class="portfolio-item">
+
+            <div class="portfolio-image">
+              <img
+                src="assets/images/portfolio-02.jpg"
+                alt="KSU Media Group event project"
+                loading="lazy"
+              >
+            </div>
+
+            <div class="portfolio-info">
+
+              <span>
+                EVENTS
+              </span>
+
+              <h3>
+                Featured Experience
+              </h3>
+
+            </div>
+
+          </article>
+
+
+          <article class="portfolio-item">
+
+            <div class="portfolio-image">
+              <img
+                src="assets/images/portfolio-03.jpg"
+                alt="KSU Media Group video project"
+                loading="lazy"
+              >
+            </div>
+
+            <div class="portfolio-info">
+
+              <span>
+                VIDEO
+              </span>
+
+              <h3>
+                Featured Story
+              </h3>
+
+            </div>
+
+          </article>
+
+
+          <article class="portfolio-item">
+
+            <div class="portfolio-image">
+              <img
+                src="assets/images/portfolio-04.jpg"
+                alt="KSU Custom branded product"
+                loading="lazy"
+              >
+            </div>
+
+            <div class="portfolio-info">
+
+              <span>
+                CUSTOM
+              </span>
+
+              <h3>
+                Featured Product
+              </h3>
+
+            </div>
+
+          </article>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- ================================
+         CTA
+    ================================= -->
+
+    <section class="cta-section">
+
+      <div class="container cta-content">
+
+        <span class="eyebrow">
+          HAVE AN IDEA?
+        </span>
+
+        <h2>
+          Let's turn it into
+          <span>something real.</span>
+        </h2>
+
+        <p>
+          Tell us what you're working on, what you're planning or
+          what you're trying to figure out.
+        </p>
+
+        <a href="#contact" class="button button-primary">
+          Start Your Project
+        </a>
+
+      </div>
+
+    </section>
+
+
+    <!-- ================================
+         CONTACT
+    ================================= -->
+
+    <section class="contact-section section" id="contact">
+
+      <div class="container contact-grid">
+
+
+        <div class="contact-content">
+
+          <div class="section-label">
+
+            <span class="section-number">
+              06
+            </span>
+
+            <span>
+              CONTACT KSU
+            </span>
+
+          </div>
+
+          <h2>
+            Ready when
+            <span>you are.</span>
+          </h2>
+
+          <p>
+            Whether you have a fully developed project or just an
+            idea, start the conversation. We'll figure out the next
+            step together.
+          </p>
+
+
+          <div class="contact-details">
+
+            <div>
+              <span>
+                EMAIL
+              </span>
+
+              <a href="mailto:hello@ksumediagroup.com">
+                hello@ksumediagroup.com
+              </a>
+            </div>
+
+
+            <div>
+              <span>
+                LOCATION
+              </span>
+
+              <p>
+                Colorado Springs, Colorado
+              </p>
+            </div>
+
+          </div>
+
+        </div>
+
+
+        <div class="contact-form-wrapper">
+
+          <!--
+            IMPORTANT:
+            Replace YOUR_FORM_ENDPOINT with your real form endpoint
+            before launching the website.
+          -->
+
+          <form
+            class="contact-form"
+            action="YOUR_FORM_ENDPOINT"
+            method="POST"
+          >
+
+            <div class="form-group">
+
+              <label for="name">
+                Name
+              </label>
+
+              <input
+                type="text"
+                id="name"
+                name="name"
+                placeholder="Your name"
+                required
+              >
+
+            </div>
+
+
+            <div class="form-group">
+
+              <label for="email">
+                Email
+              </label>
+
+              <input
+                type="email"
+                id="email"
+                name="email"
+                placeholder="you@example.com"
+                required
+              >
+
+            </div>
+
+
+            <div class="form-group">
+
+              <label for="project">
+                What can we help with?
+              </label>
+
+              <select
+                id="project"
+                name="project"
+                required
+              >
+
+                <option value="">
+                  Select a service
+                </option>
+
+                <option value="photography">
+                  Photography
+                </option>
+
+                <option value="videography">
+                  Videography
+                </option>
+
+                <option value="consulting">
+                  Consulting
+                </option>
+
+                <option value="event">
+                  Event / Wedding
+                </option>
+
+                <option value="custom">
+                  Custom Products
+                </option>
+
+                <option value="creative-strategy">
+                  Creative Strategy
+                </option>
+
+                <option value="other">
+                  Something Else
+                </option>
+
+              </select>
+
+            </div>
+
+
+            <div class="form-group">
+
+              <label for="message">
+                Tell us about it
+              </label>
+
+              <textarea
+                id="message"
+                name="message"
+                rows="6"
+                placeholder="Tell us what you're working on..."
+                required
+              ></textarea>
+
+            </div>
+
+
+            <button
+              type="submit"
+              class="button button-primary button-full"
+            >
+              Send Project Inquiry
+            </button>
+
+          </form>
+
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <!-- ================================
+       FOOTER
+  ================================= -->
+
+  <footer class="site-footer">
+
+    <div class="container footer-grid">
+
+
+      <div class="footer-brand">
+
+        <div class="brand-mark">
+          KSU
+        </div>
+
+        <h3>
+          KSU Media Group
+        </h3>
+
+        <p>
+          Media. Strategy. Experiences.
+        </p>
+
+        <p>
+          Built to move people.
+        </p>
+
+      </div>
+
+
+      <div class="footer-column">
+
+        <h4>
+          Company
+        </h4>
+
+        <a href="#about">
+          About
+        </a>
+
+        <a href="#services">
+          Services
+        </a>
+
+        <a href="#work">
+          Our Work
+        </a>
+
+        <a href="#contact">
+          Contact
+        </a>
+
+      </div>
+
+
+      <div class="footer-column">
+
+        <h4>
+          Departments
+        </h4>
+
+        <a href="pages/off-duty.html">
+          KSU Off Duty
+        </a>
+
+        <a href="pages/events.html">
+          KSU Events
+        </a>
+
+        <a href="pages/custom.html">
+          KSU Custom
+        </a>
+
+        <a href="pages/brightside.html">
+          Brightside
+        </a>
+
+      </div>
+
+
+      <div class="footer-column">
+
+        <h4>
+          Follow KSU
+        </h4>
+
+        <!-- Replace these placeholder links -->
+
+        <a href="#" target="_blank" rel="noopener noreferrer">
+          Facebook
+        </a>
+
+        <a href="#" target="_blank" rel="noopener noreferrer">
+          Instagram
+        </a>
+
+        <a href="#" target="_blank" rel="noopener noreferrer">
+          TikTok
+        </a>
+
+        <a href="#" target="_blank" rel="noopener noreferrer">
+          YouTube
+        </a>
+
+      </div>
+
+    </div>
+
+
+    <div class="footer-bottom">
+
+      <div class="container footer-bottom-content">
+
+        <p>
+          © <span id="currentYear"></span>
+          KSU Media Group. All rights reserved.
+        </p>
+
+        <div>
+
+          <a href="privacy.html">
+            Privacy Policy
+          </a>
+
+          <a href="terms.html">
+            Terms
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </footer>
+
+
+  <!-- Main JavaScript -->
+  <script src="script.js"></script>
+
+</body>
+</html>
